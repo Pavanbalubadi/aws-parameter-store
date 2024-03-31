@@ -1,6 +1,6 @@
 variable "parameters" {
   default = [
-    {name="dev.rds.username" ,type="string" ,value="admin1"}
+    {name="dev.rds.username" ,type="string" ,value="admin1"},
 
 
     ##passwords
